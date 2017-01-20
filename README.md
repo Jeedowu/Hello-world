@@ -1,4 +1,4 @@
 public class Greeting
 {
-System.out.prinln("Hello World")
+System.out.println("Hello World");
 }
